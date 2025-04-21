@@ -1,6 +1,6 @@
 # Uber Fare Prediction
 
-A Django-based application that predicts Uber fares using historical ride data.
+A Django-based application that predicts Uber fares using historical ride data
 
 **Tech:** Python, Django, Scikit-learn, Matplotlib  
 **Highlights:**  
